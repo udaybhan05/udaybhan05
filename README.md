@@ -7,9 +7,9 @@
 
 <!-- EDIT: the banner title ("desc") after desc=, e.g. AI%20Engineer -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB,100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB,100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
-  <img width="100%" alt="Uday Bhan, AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB,100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
+  <img width="100%" alt="Uday Bhan, AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
 </picture>
 
 <!-- EDIT: typing lines. Separate with ";" and use "+" for spaces -->
@@ -129,15 +129,15 @@ I build **AI applications grounded in real data**: retrieval-augmented generatio
 <!-- EDIT: skillicons ids are listed at https://skillicons.dev. Keep only what you use -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,sklearn,pytorch,fastapi,flask&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,sklearn,pytorch,fastapi,flask&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,java,sklearn,pytorch,fastapi,flask&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Csklearn%2Cpytorch%2Cfastapi%2Cflask&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjava%2Csklearn%2Cpytorch%2Cfastapi%2Cflask&theme=light">
+    <img src="https://skillicons.dev/icons?i=python%2Cjava%2Csklearn%2Cpytorch%2Cfastapi%2Cflask&theme=light" alt=""/>
   </picture>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,vscode&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,vscode&theme=light">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postgres,mongodb,vscode&theme=light" alt=""/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Clinux%2Cpostgres%2Cmongodb%2Cvscode&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Clinux%2Cpostgres%2Cmongodb%2Cvscode&theme=light">
+    <img src="https://skillicons.dev/icons?i=git%2Cgithub%2Cdocker%2Clinux%2Cpostgres%2Cmongodb%2Cvscode&theme=light" alt=""/>
   </picture>
 </p>
 
