@@ -1,0 +1,22 @@
+<svg width="1200" height="20" viewBox="0 0 1200 20" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dbase" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#2563EB" stop-opacity="0.5"/>
+      <stop offset="0.8" stop-color="#06B6D4" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="dshine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="dclip"><rect x="0" y="9" width="1200" height="2" rx="1"/></clipPath>
+  </defs>
+  <rect x="0" y="9" width="1200" height="2" rx="1" fill="url(#dbase)"/>
+  <g clip-path="url(#dclip)">
+    <rect x="-260" y="9" width="240" height="2" fill="url(#dshine)">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1480 0" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
