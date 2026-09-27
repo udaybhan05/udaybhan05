@@ -1,15 +1,15 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Senior%20Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Senior%20Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
-  <img width="100%" alt="Uday Bhan, Senior Applied AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Senior%20Applied%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Staff%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Staff%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <img width="100%" alt="Uday Bhan, Staff AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Staff%20AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
 </picture>
 
 <p align="center">
-  <a href="https://github.com/udaybhan05"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=520&lines=Senior+Applied+AI+Engineer;Multi-Agent+AI+on+Google+ADK+%C2%B7+MCP+%C2%B7+A2A;Enterprise+RAG+%26+GraphRAG;Document+AI+%26+Ingestion+Benchmarking;LLM+Evals+%26+Observability;Shipping+on+AWS+%C2%B7+GCP+%C2%B7+Azure;7%2B+Years+in+ML+%26+NLP" alt="Senior Applied AI Engineer · Multi-Agent AI · Enterprise RAG · Document AI · LLM Evals" /></a>
+  <a href="https://github.com/udaybhan05"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&repeat=true&width=520&lines=Staff+AI+Engineer;Multi-Agent+AI+on+Google+ADK+%C2%B7+MCP+%C2%B7+A2A;Enterprise+RAG+%26+GraphRAG;Document+AI+%26+Ingestion+Benchmarking;LLM+Evals+%26+Observability;Shipping+on+AWS+%C2%B7+GCP+%C2%B7+Azure;7%2B+Years+in+AI+%26+ML" alt="Staff AI Engineer · Multi-Agent AI · Enterprise RAG · Document AI · LLM Evals" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/7%2B_years-ML_%26_NLP-2563EB?style=flat-square" alt="7+ years in ML"/>
+  <img src="https://img.shields.io/badge/7%2B_years-AI_%26_ML-2563EB?style=flat-square" alt="7+ years in AI & ML"/>
   &nbsp;
   <img src="https://img.shields.io/badge/cloud-AWS_%C2%B7_GCP_%C2%B7_Azure-0891B2?style=flat-square" alt="AWS · GCP · Azure"/>
   &nbsp;
@@ -26,7 +26,7 @@
   <img alt="About" src="assets/h-about-light.svg" width="100%">
 </picture>
 
-I'm a **Senior Applied AI Engineer with 7+ years in ML**. My foundation is data science and transformer-era NLP; for the last ~2 years I've focused on **production agentic and RAG systems, end to end**: multi-agent platforms on Google ADK (MCP · A2A · Skills), enterprise RAG with hybrid retrieval and knowledge graphs, document-AI ingestion, and LLM evaluation stacks on Phoenix, Langfuse and MLflow.
+I'm a **Staff AI Engineer with 7+ years in AI & ML**. My foundation is data science and transformer-era NLP; for the last ~2 years I've focused on **production agentic and RAG systems, end to end**: multi-agent platforms on Google ADK (MCP · A2A · Skills), enterprise RAG with hybrid retrieval and knowledge graphs, document-AI ingestion, and LLM evaluation stacks on Phoenix, Langfuse and MLflow.
 
 I own the full lifecycle, from research and data design to evaluation, cost tuning and production rollout on **AWS, GCP and Azure**, and I've ramped engineers on RAG and agent workflows along the way.
 
