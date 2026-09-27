@@ -8,8 +8,8 @@
 <!-- EDIT: the banner title ("desc") after desc=, e.g. AI%20Engineer -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
-  <img width="100%" alt="Uday Bhan, AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
+  <img width="100%" alt="Uday Bhan, AI Engineer" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:2563EB%2C100:06B6D4&text=Uday%20Bhan&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=20&descAlignY=55&fontColor=1f2328">
 </picture>
 
 <!-- EDIT: typing lines. Separate with ";" and use "+" for spaces -->
